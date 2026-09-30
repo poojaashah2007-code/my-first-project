@@ -1,0 +1,7 @@
+{
+  "name": "Neon Void: Arcade Game Studio",
+  "description": "High-octane retro-arcade space survival game with customizable ship classes, weapon upgrades, synth audio, and exportable self-contained single HTML file.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
